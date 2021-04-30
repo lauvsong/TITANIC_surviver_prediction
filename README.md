@@ -1,6 +1,6 @@
 # TITANIC_surviver_prediction
 
-> You can see my reports in [here](https://velog.io/@wisepine/TITANIC-생존자-예측-78-달성기)
+You can see my reports in [here](https://velog.io/@wisepine/TITANIC-생존자-예측-78-달성기)
 
 Kaggle Competition | Titanic Machine Learning from Disaster
 > The sinking of the RMS Titanic is one of the most infamous shipwrecks in history. On April 15, 1912, during her maiden voyage, the Titanic sank after colliding with an iceberg, killing 1502 out of 2224 passengers and crew. This sensational tragedy shocked the international community and led to better safety regulations for ships.
