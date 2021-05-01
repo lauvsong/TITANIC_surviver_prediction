@@ -17,6 +17,7 @@ From the competition [homepage](https://www.kaggle.com/c/titanic/overview).
 
 
 ### feature engineering
+---
 - title
   > Mr, Ms... from `name` 
 - alone
@@ -28,4 +29,5 @@ From the competition [homepage](https://www.kaggle.com/c/titanic/overview).
 
 
 ### model
+---
 - random forest
