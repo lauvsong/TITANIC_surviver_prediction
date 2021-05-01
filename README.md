@@ -12,3 +12,20 @@ Kaggle Competition | Titanic Machine Learning from Disaster
 > This Kaggle Getting Started Competition provides an ideal starting place for people who may not have a lot of experience in data science and machine learning."
 
 From the competition [homepage](https://www.kaggle.com/c/titanic/overview).
+
+---
+
+
+### feature engineering
+- title
+  - Mr, Ms... from `name` 
+- alone
+  - where familysize(=`sibsp`+`parch`) == 1
+- bigfamily
+  - where familysize(=`sibsp`+`parch`) > 3
+- agebucket
+  - binning `age` per 15
+
+
+### model
+- random forest
