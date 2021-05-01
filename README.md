@@ -18,13 +18,13 @@ From the competition [homepage](https://www.kaggle.com/c/titanic/overview).
 
 ### feature engineering
 - title
-  - Mr, Ms... from `name` 
+  > Mr, Ms... from `name` 
 - alone
-  - where familysize(=`sibsp`+`parch`) == 1
+  > where familysize(=`sibsp`+`parch`) == 1
 - bigfamily
-  - where familysize(=`sibsp`+`parch`) > 3
+  > where familysize(=`sibsp`+`parch`) > 3
 - agebucket
-  - binning `age` per 15
+  > binning `age` per 15
 
 
 ### model
